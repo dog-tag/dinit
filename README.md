@@ -1,2 +1,4 @@
-# dinit
-initialize database for project code
+Readme
+------
+
+Readme file
